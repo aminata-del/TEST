@@ -1,1 +1,4 @@
-del.com
+Type : CNAME
+Nom :www.del.com
+Cible : aminata-del.github.io
+TTL : 3600
